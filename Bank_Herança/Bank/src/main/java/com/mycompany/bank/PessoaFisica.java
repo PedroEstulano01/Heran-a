@@ -22,23 +22,5 @@ public class PessoaFisica extends Cliente {
 
     public void setNome(String nome) {
         this.nome = nome;
-    }
-
-    @Override
-    public String getTelefone() {
-        return telefone;
-    }
-
-    @Override
-    public void setTelefone(String telefone) {
-        this.telefone = telefone;
-    }
-
-    
-    
-  
-    
-    
-            
-    
+    }    
 }
